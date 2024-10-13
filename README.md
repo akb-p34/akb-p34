@@ -17,7 +17,7 @@ I'm a third-year Quantitative Finance student at Stevens Institute of Technology
 - **Areas of Interest**: Financial Modeling, Data Visualization, and Machine Learning
 
 ## Featured Projects
-- 📈 [RBI Trading Algorithm]([https://github.com/yourusername/yourproject](https://github.com/akb-p34/Alif/tree/main/RBI)): A Python-based algorithm that automates Oliver Velez's RBI Trading strategy with foundational market data.
+- 📈 [RBI Trading Algorithm](https://github.com/akb-p34/Alif/tree/main/RBI): A Python-based algorithm that automates Oliver Velez's RBI Trading strategy with foundational market data.
 - 💻 [Rate My Roommate](https://github.com/yourusername/yourproject): A Web App helping students find their ideal roommates & share horror stories of past roommates.
 - 🏎️ [The Ferrari 488 - Paying for the Privilege to Lose Money](https://github.com/akb-p34/Ferrari-488-Price-Analysis): A Research Paper on Ferrari 488 depreciation in the U.S. Market.
 
