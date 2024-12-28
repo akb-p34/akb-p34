@@ -2,9 +2,9 @@
 
 ***`Student of Capitalism (Learner/Entrepreneur/Pioneer)`***
 
-I'm a third-year Quantitative Finance student at Stevens Institute of Technology, centered on **providing innovative solutions** to real-world problems. When I reimagined Sports Car analysis using Data Science or automated Trading Strategies with Machine Learning, I focused on finding the *successful solution.* One of my trading models, designed from scratch, **achieved over 40% CAGR**, demonstrating my commitment to results-driven approaches. By combining Python, C++, and Tableau, I consistently push the boundaries of what's possible, achieving real-world results that are ***both practical and profitable***.
+I'm a third-year Quantitative Finance student at Stevens Institute of Technology, centered on **shaping innovative solutions** to real-world problems. When I reimagined Sports Car analysis using Data Science or automated Trading Strategies with Machine Learning, I focused on finding the *successful solution.* One of my trading models, designed from scratch, **achieved over 40% CAGR**, demonstrating my commitment to results-driven approaches. By combining Python, C++, and Tableau, I consistently push the boundaries of what's possible, achieving real-world results that are ***both practical and profitable***.
 
-> "My approach is simple: Break the problem down to first principles, then solve it with logic, code, and a gallon of hustle."
+> "My approach is simple: Break the problem down to first principles, then solve it with articulated logic and effort."
 
 ## What I'm Currently Working On
 - 💲 Automating several **[Discretionary Trading Strategies](https://github.com/akb-p34/Alif/tree/main/RBI)** that have historically proven to outperform the market.
