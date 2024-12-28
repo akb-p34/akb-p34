@@ -2,7 +2,7 @@
 
 ***`Student of Capitalism (Learner/Entrepreneur/Pioneer)`***
 
-I'm a third-year Quantitative Finance student at Stevens Institute of Technology, centered on **shaping innovative solutions** to real-world problems. When I reimagined Sports Car analysis using Data Science or automated Trading Strategies with Machine Learning, I focused on finding the *successful solution.* One of my trading models, designed from scratch, **achieved over 40% CAGR**, demonstrating my commitment to results-driven approaches. By combining Python, C++, and Tableau, I consistently push the boundaries of what's possible, achieving real-world results that are ***both practical and profitable***.
+I'm a third-year Quantitative Finance student at Stevens Institute of Technology, centered on **shaping innovative solutions** to real-world problems. When I reimagined Sports Car analysis using Data Science or automated Trading Strategies with Machine Learning, I focused on finding the *effective solution.* One of my trading models, designed from scratch, **achieved over 40% CAGR**, demonstrating my commitment to results-driven approaches. By combining Python, C++, and Tableau, I consistently push the boundaries of what's possible, achieving real-world results that are ***both practical and profitable***.
 
 > "My approach is simple: Break the problem down to first principles, then solve it with articulated logic and effort."
 
@@ -14,7 +14,7 @@ I'm a third-year Quantitative Finance student at Stevens Institute of Technology
 ## My Skills
 - **Programming Languages**: Python, C++, Java, R
 - **Tools**: Tableau, Git, Excel, Powerpoint, Bloomberg Terminal
-- **Areas of Interest**: Financial Modeling, Data Visualization, and Machine Learning
+- **Areas of Interest**: Financial Modeling, Alternative Assets, Data Visualization, and Machine Learning
 
 ## Featured Projects
 - 📈 [RBI Trading Algorithm](https://github.com/akb-p34/Alif/tree/main/RBI): A Python-based algorithm that automates Oliver Velez's RBI Trading strategy with foundational market data.
