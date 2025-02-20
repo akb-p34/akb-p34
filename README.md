@@ -2,7 +2,7 @@
 
 ***`Student of Capitalism (Learner/Entrepreneur/Pioneer)`***
 
-I'm a third-year Quantitative Finance student at Stevens Institute of Technology, driven by **results and innovation.** Whether reimagining sports car analytics with data science or automating trading strategies with machine learning, I focus on solutions that work. One of my trading models, built from scratch, **delivered over 40% CAGR,** proving that theory means nothing without execution. Using Python, C++, and Tableau, I push boundaries to turn complex ideas into **real-world success.**
+I'm a third-year Quantitative Finance student at Stevens Institute of Technology, driven by ***results and innovation.*** Whether reimagining sports car analytics with data science or automating trading strategies with machine learning, I focus on solutions that work. One of my trading models, built from scratch, ***delivered over 40% CAGR,*** proving that theory means nothing without execution. Using Python, C++, and Tableau, I push boundaries to turn complex ideas into ***real-world success.***
 
 > "My approach is simple: Break the problem down to first principles, then solve it with logic and effort."
 
