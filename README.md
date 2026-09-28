@@ -1,9 +1,15 @@
 ### Hi, I'm Akbar
 
-Fourth-year Quantitative Finance student at Stevens with a CS minor, graduating May 2026.
+I sell software, then I go build it.
 
-Right now I'm building three things: [CYLS Exchange](https://cyls.exchange) (real-estate-backed tokens on Solana, peaked at $440M FDV), [Pathan Advisory](https://linkedin.com/in/akbar-pathan/) (AI automation for real estate teams), and [SynopticFeed](https://github.com/akb-p34/SYNOPTICFEED-WEB) (satellite-based forecast verification for electricity trading desks).
+Forbes 30 Under 30, nominated by Stevens Institute of Technology.
 
-Python, TypeScript, React/Next.js, NestJS, Solana/Anchor, Supabase, SQL.
+Right now I run Pathan Advisory, where I'm building a new website, AI-search visibility, reporting and marketing tools for a Keller Williams team.
 
-[LinkedIn](https://linkedin.com/in/akbar-pathan/)
+Before that I led engineering at [CYLS Exchange](https://www.cyls.exchange), a real-estate-backed token platform on Solana with 2,700+ holders. I also founded SynopticFeed, a satellite weather-data product for power traders, and shut it down when a pass/fail test I set in advance came in short.
+
+M.S. Financial Engineering at Stevens, May 2027. B.S. Quantitative Finance with a minor in computer science.
+
+Java, Python, TypeScript, React/Next.js, NestJS, SQL/Postgres (Supabase).
+
+[LinkedIn](https://www.linkedin.com/in/akbar-pathan/)
